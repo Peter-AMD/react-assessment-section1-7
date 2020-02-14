@@ -1,0 +1,16 @@
+.flagcard-wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 360px;
+  padding: 3px;
+  border: 1px solid gray;
+  margin-bottom: 30px;
+
+}
+.flagcard-wrapper .flag-description {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+}
+.flagcard-wrapper .flag-description .flag {
+  align-self: center;
+}

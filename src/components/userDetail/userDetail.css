@@ -1,0 +1,19 @@
+.userdetail-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 50px;
+  width: 330px;
+}
+.userdetail-wrapper .placeholder-avatar {
+  width: 70px;
+  height: 70px;
+}
+.userdetail-wrapper .avatar {
+  position: relative;
+}
+.userdetail-wrapper .main-avatar {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  z-index: 2;
+  top: 0;
+}

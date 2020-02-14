@@ -1,0 +1,41 @@
+### Sass template
+.sass-cache/
+*.css.map
+### Node template
+# Logs
+logs
+*.log
+npm-debug.log*
+json
+compilation-stats.json
+
+# Coverage
+.nyc_output/
+coverage/
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+.idea
+.vscode
+public
+dev/assets/css/
+dev/config.json
+dev/_temp
+.history
+.log
+resources/
+.DS_Store
+config.json
+run
+.vs
+cc-test-reporter
+.env
+package-lock.json

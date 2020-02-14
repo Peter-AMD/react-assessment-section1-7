@@ -1,0 +1,11 @@
+.searchbar-wrapper {
+  display: grid;
+  justify-content: center;
+}
+.searchbar-wrapper input {
+  width: 360px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  border: solid 2px gray;
+  padding: 5px;
+}
